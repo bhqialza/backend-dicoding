@@ -7,7 +7,8 @@ Proyek backend sederhana sebagai bagian dari latihan atau submission di kelas **
 - **Express.js**  
 - **ESLint** (style & linting)
 
-## 📁 Struktur Folder
+## 📁 Struktur 
+```
 backend-dicoding/
 ├── node_modules/ # Dependency dari project (auto-generated)
 ├── src/ # Folder utama untuk source code aplikasi
@@ -15,7 +16,7 @@ backend-dicoding/
 ├── .eslintrc.js # Konfigurasi untuk ESLint
 ├── package.json # Metadata project dan dependensi
 ├── package-lock.json # Versi lock dari dependensi
-
+```
 ## 🚀 Cara Menjalankan
 1. Clone repositori:
    ```bash
